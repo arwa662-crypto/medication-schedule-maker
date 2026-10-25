@@ -1,0 +1,6 @@
+drug,amount,unit,morning,noon,evening,bedtime,instructions,days,notes
+Metformin 500mg,1,tablet,1,,1,,with_food,,
+Amlodipine 5mg,1,tablet,1,,,,,,Take at the same time every day
+Omeprazole 20mg,1,capsule,1,,,,before_breakfast;with_water,28,
+Atorvastatin 20mg,1,tablet,,,,1,at_bedtime,,
+Cetirizine 10mg,1,tablet,,,,1,,14,
